@@ -1,0 +1,39 @@
+controllers
+	endpoints, rutas
+
+models
+	logica de la practica
+
+crear archivo index a nivel de carpeta raiz
+
+
+npm init
+npm install --save express
+
+quitar ^ "express": "^4.18.2" --> asi queda  "4.18.2"
+
+node_modules: librerias instaladas
+
+package-lock.json: proteccion, las dependencias con las que corrio sin importar lo que este en el package (historial de lo instalado)
+
+
+node index.js
+
+npm install --save-dev -g nodemon  (se instala como dependencia de Desarrollo y en forma global, no en Produccion)
+
+npm install --save pug
+npm install --save ejs-locals
+npm install --save ejs
+
+
+
+
+
+
+
+
+
+
+
+
+

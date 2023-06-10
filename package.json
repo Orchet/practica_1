@@ -9,10 +9,11 @@
   "keywords": [
     "carwash",
     "server",
-    "nodejsexpress",
+    "nodejs",
+    "express",
     "practica"
   ],
-  "author": "Christian Ortiz <ortiz.miguez@outlook.com>",
+  "author": "Leonardo Larrea <leonardo.larrea1@gmail.com>",
   "license": "ISC",
   "dependencies": {
     "ejs": "^3.1.9",
